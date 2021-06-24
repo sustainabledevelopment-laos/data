@@ -1,0 +1,93 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ອາຍຸຕ່ໍາກວ່າ 15 ປີ",
+                "15 ຫາ 24 ປີ",
+                "55 ຫາ 64 ປີ",
+                "65 ປີແລະຫຼາຍກວ່າ"
+              ]
+            },
+            "title": "ອາຍຸ"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "ເຂດອ້າງອີງ"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ຜູ້ຍິງ",
+                "ຜູ້ຊາຍ"
+              ]
+            },
+            "title": "ເພດ"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ຫນ່ວຍງານວັດແທກ"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ຊົນນະບົດ",
+                "ຕົວເມືອງ"
+              ]
+            },
+            "title": "ລະດັບການເມືອງ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-2-2",
+  "title": "1-2-2"
+}

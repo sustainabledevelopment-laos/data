@@ -1,0 +1,19 @@
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2013,Proportion of children living in child-specific multidimensional poverty [1.2.2],,,,,Percent,,33.1
+2018,Proportion of children living in child-specific multidimensional poverty [1.2.2],,,,,Percent,,22.0
+2013,Proportion of children living in child-specific multidimensional poverty [1.2.2],,,,Urban,Percent,,42.5
+2018,Proportion of children living in child-specific multidimensional poverty [1.2.2],,,,Urban,Percent,,22.0
+2013,Proportion of children living in child-specific multidimensional poverty [1.2.2],,,,Rural,Percent,,9.9
+2018,Proportion of children living in child-specific multidimensional poverty [1.2.2],,,,Rural,Percent,,28.9
+2013,Proportion of children living in child-specific multidimensional poverty [1.2.2],,Male,,,Percent,,33.2
+2018,Proportion of children living in child-specific multidimensional poverty [1.2.2],,Male,,,Percent,,22.0
+2013,Proportion of children living in child-specific multidimensional poverty [1.2.2],,Female,,,Percent,,33.0
+2018,Proportion of children living in child-specific multidimensional poverty [1.2.2],,Female,,,Percent,,21.8
+2013,Proportion of children living in child-specific multidimensional poverty [1.2.2],,,under 15 years old,,Percent,,44.5
+2013,Proportion of children living in child-specific multidimensional poverty [1.2.2],,,15 to 24 years old,,Percent,,28.7
+2013,Proportion of children living in child-specific multidimensional poverty [1.2.2],,,55 to 64 years old,,Percent,,24.2
+2013,Proportion of children living in child-specific multidimensional poverty [1.2.2],,,65 years old and over,,Percent,,29.1
+2018,Proportion of children living in child-specific multidimensional poverty [1.2.2],,,under 15 years old,,Percent,,29.8
+2018,Proportion of children living in child-specific multidimensional poverty [1.2.2],,,15 to 24 years old,,Percent,,22.2
+2018,Proportion of children living in child-specific multidimensional poverty [1.2.2],,,55 to 64 years old,,Percent,,15.4
+2018,Proportion of children living in child-specific multidimensional poverty [1.2.2],,,65 years old and over,,Percent,,19.2
